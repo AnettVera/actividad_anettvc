@@ -1,0 +1,22 @@
+<html>
+<body>
+<label for="monto">Monto de la cuenta</label>
+<input type="number" name="monto" id="monto"></input>
+
+<label>Pocentaje</label>
+<input type="number" name="porcentaje" id="porcentaje"></input>
+<button onclick="calcular()">Calcular monto con propina</button>
+<div id="resultado">
+</div>
+<script>
+function calcular(){
+	monto=parseFloat(document.getElementById("monto").value);
+	porcentaje=parseFloat(document.getElementById("porcentaje").value);
+	propina=(monto * porcentaje)/100
+	monto_total=monto+propina
+	document.getElementById("resultado").innerHTML=`<h6>monto total: ${monto_total}</h6>`
+	console.log(`monto total: ${monto_total}`);
+}
+</script>
+</body>
+</html>
