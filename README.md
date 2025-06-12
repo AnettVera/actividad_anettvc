@@ -9,5 +9,5 @@ Este proyecto tiene como proposito calcular el porcentaje de diferentes propinas
 
 #Instrucciones de Uso 
 
-1. Clonar el repositorio: git clone 
+1. Clonar el repositorio: git clone https://github.com/AnettVera/actividad_anettvc.git
 2. Ejecutar el archivo index html en el navegador
