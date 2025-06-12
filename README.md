@@ -1,13 +1,16 @@
-# actividad_anettvc
+# Actividad AnettVC
 
-##Propósito del proyecyo
-Este proyecto tiene como proposito calcular el porcentaje de diferentes propinas dentro de un restaurante
+## Propósito del Proyecto
+Este proyecto tiene como propósito calcular el porcentaje de diferentes propinas dentro de un restaurante.
 
-##Tecnologoas Utilizadas
--Lenguajes de programación: JavaScript
--Frameworks: Bootstrap
+## Tecnologías Utilizadas
+- **Lenguajes de programación:** JavaScript  
+- **Frameworks:** Bootstrap  
 
-#Instrucciones de Uso 
-
-1. Clonar el repositorio: git clone https://github.com/AnettVera/actividad_anettvc.git
-2. Ejecutar el archivo index html en el navegador
+## Instrucciones de Uso
+1. **Clonar el repositorio:**  
+   ```sh
+   git clone https://github.com/AnettVera/actividad_anettvc.git
+2. **Ejecutar archivo index**
+   Abre directamente el archivo en tu navegador
+   Usa una extensión como Live Server en VS Code para una experiencia interactiva
